@@ -111,8 +111,8 @@ Output: Real / Fake classification with confidence score
 
  Authors
 Abdulrehman Qureshi
-[crazy-scientistt](https://github.com/crazy-scientistt)
-AI Researcher | Computer Vision & Web Systems
+[@crazy-scientistt](https://github.com/crazy-scientistt)
+AI/ML Engineer | Data Analytics | Computer Vision | NLP | Power BI | Python
 
 Maheen Shaikh
 [@maheenshkk](https://github.com/maheenshkk) 
